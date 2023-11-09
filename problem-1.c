@@ -17,7 +17,6 @@ int main() {
    
     double theta_violet = asin(lambda / (2 * a));
     double theta_red = asin(lambda / (2 * a));
-
     
     if (theta_violet > theta_red) {
         printf("Violet slit bent the light more.\n");
