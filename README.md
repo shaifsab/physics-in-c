@@ -3,5 +3,5 @@
 
 
 
-* Problem #1: Which Slit Bent the Light Most [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1b.py)]
-* Problem #2: Second-Order Red Light Angle in Diffraction Grating from Green Light's Third-Order Bright Spot [[code](https://github.com/shaifsab/rosalind-solutions-bic/blob/main/-%20code/ba1b.py)]
+* Problem #1: Which Slit Bent the Light Most [[code](problem-1.c)]
+* Problem #2: Second-Order Red Light Angle in Diffraction Grating from Green Light's Third-Order Bright Spot [[code](problem-2.c)]
